@@ -2,7 +2,8 @@ theme: jekyll-theme-hacker
 
 menu:
   home: /      //主页
-  categories: /categories //分类
+  categories: 
+  -note1
   archives: /archives   //归档
   tags: /tags   //标签
   about: /about   //关于  
